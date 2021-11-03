@@ -128,8 +128,30 @@ aside h1::before{
 aside ul {
     list-style-position:inside;
     columns: 2;
-    list-style: '\1F3C0\00a0';
+    
     padding-left: 30px;
+}
+
+#basquete{
+    list-style: '\1F3C0\00a0';
+}
+#fut{
+    list-style: '\26BD\00a0'
+}
+#Baseball{
+    list-style: '\26BE\00a0'
+}
+#Tennis{
+    list-style: '\1F3BE\00a0'
+}
+#box{
+    list-style: '\1F94A\00a0'
+}
+#golf{
+    list-style: '\1F3CC\00a0'
+}
+#bow{
+    list-style: '\1F3B3\00a0'
 }
 aside abbr{
     text-decoration: none;
