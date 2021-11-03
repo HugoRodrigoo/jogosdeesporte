@@ -153,6 +153,14 @@ aside ul {
 #bow{
     list-style: '\1F3B3\00a0'
 }
+#nfl{
+    list-style: '\1F3C8\00a0'
+}
+#hockey{
+    list-style: '\1F3D2\00a0'
+}
+
+
 aside abbr{
     text-decoration: none;
 }
