@@ -160,6 +160,10 @@ aside ul {
     list-style: '\1F3D2\00a0'
 }
 
+aside a {
+    text-decoration: none;
+    color: inherit;
+}
 
 aside abbr{
     text-decoration: none;
